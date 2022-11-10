@@ -1,1 +1,18 @@
-
+<?xml version="1.0"?>
+<data>
+  <ID>01</ID>
+ <Title>The content is not displayed in the selected interface language</Title>
+  <Environment>Google Chrome 104.0.511281, Windows 10x64"</Environment>
+ <Precondition>Go to the site https://bukva.ua/ua"</Precondition>
+ <Steps_to_reproduce>
+ "1. Select the interface language on the site Ukrainian,
+  2. Scroll down the page,
+  3. Click on the link "ПУНКТИ САМОВИВОЗУ",
+  4. Pay attention to the language of the page text",
+  </Steps_to_reproduce>
+ <Actual_result>The content is displayed in Russian on the page "ПУНКТИ САМОВИВОЗУ"</Actual_result>
+ <Expected_result>The content is displayed in Ukrainian on the page "ПУНКТИ САМОВИВОЗУ"</Expected_result>
+  <Severity>minor</Severity>
+  <Priority>medium</Priority>
+ <Attachments>1.http://joxi.ru/vAWkbz7s3PqEDA   2.https://www.screencast.com/t/ROOjQTu6eCa"</Attachments>
+<data>
